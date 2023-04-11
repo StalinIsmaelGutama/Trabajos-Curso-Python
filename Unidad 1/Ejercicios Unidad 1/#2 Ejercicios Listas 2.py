@@ -1,6 +1,10 @@
 #CURSO DE FUNDAMENTOS DE PYTHON 
 
 #EJERCICIOS DE LISTAS A RESOLVER
+"""
+Nombre: Stalin Gutama
+Carrera: Big Data
+"""
 
 #Crea una lista vacía llamada numeros e introduce los números del 1 al 5. Luego, muestra la lista por pantalla.
 
