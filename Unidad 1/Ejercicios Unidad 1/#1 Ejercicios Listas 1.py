@@ -1,4 +1,9 @@
 ### CURSO DE FUNDAMENTOS DE PYTHON
+"""
+Nombre: Stalin Gutama
+Carrera: Big Data
+"""
+
 #1. Crear una lista de numeros del 1 al 50
 
 lista = [1,2,3,4,5]
