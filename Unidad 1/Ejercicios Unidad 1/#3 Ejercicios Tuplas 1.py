@@ -1,4 +1,8 @@
 #EJERCICIOS DE TUPLAS
+"""
+Nombre: Stalin Gutama
+Carrera: Big Data
+"""
 
 #Crear una tupla vacía:
 
