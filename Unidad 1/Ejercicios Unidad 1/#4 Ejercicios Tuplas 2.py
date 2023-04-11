@@ -1,4 +1,8 @@
 #EJERCICIOS DE TUPLAS
+"""
+Nombre: Stalin Gutama
+Carrera: Big Data
+"""
 
 #Crear una tupla de números enteros y calcular su suma y promedio.
 
